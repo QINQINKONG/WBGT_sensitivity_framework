@@ -4,4 +4,5 @@ This repository describes the sensitivity framework for wet-bulb globe temperatu
 The file ``WBGT_sensitivity_framework.py`` contains a brief description of the framework, and functions to calculate each term in the framework. For more details, please refer to Kong and Huber (2024).
 
 Reference:
+
 Kong, Q. & Huber, M. A linear sensitivity framework to understand the drivers of the wet-bulb globe temperature changes. Under review at Journal of Climate.
